@@ -1,4 +1,6 @@
 Sample teaching lecture notes and code!
 
-"Lecture.pdf" - Notes for example ENGN2020 lecture
-"numerical
+Files provided are:
+Lecture.pdf - Notes for example ENGN2020 lecture
+numerical_integration.m - supporting code for above lecture
+numerical_integration_solns.m - worked example code
